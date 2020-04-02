@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755651269132",
+    "firebase_url": "https://emailpasswordauthapp.firebaseio.com",
+    "project_id": "emailpasswordauthapp",
+    "storage_bucket": "emailpasswordauthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755651269132:android:48a747323f62f5e142d429",
+        "android_client_info": {
+          "package_name": "com.example.emailpasswordauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755651269132-oqtg7cm4cr7bvm14f8fs3ktrs6ce5lh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylLfveUuZjFlKD-JJJmFmhTjJP30gTzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755651269132-oqtg7cm4cr7bvm14f8fs3ktrs6ce5lh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
